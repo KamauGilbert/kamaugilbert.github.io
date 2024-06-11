@@ -9,7 +9,7 @@ This Data Analytics project assists marketers in identifying the most suitable Y
 
 ### 1. Viewing and Preparing the Dataset
 - **Dataset:** [Top 100 UK YouTubers file](assets/datasest/youtube_data_united-kingdom.csv)
-- **Mockup:** Created a mockup of the final dashboard view to understand the desired layout.
+- **Mockup:** Created a mockup of the final dashboard view using mokkupai: https://www.mokkup.ai/ to understand the desired layout.
 ![Dashboard Mockup](assets/images/dashboard_mockup.png)
 
 ### 2. Data Extraction
