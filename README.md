@@ -97,5 +97,21 @@ HAVING
     COUNT(*) > 1;
 ```
 
+### 5. PowerBI File: Connected youtube_db in SQL SSMS to PowerBI to create an interactive dashboard.
+
+PowerBI File: Connected youtube_db in SQL SSMS to PowerBI to create an interactive dashboard. 
+
+![PowerBI Dashboard](assets/images/powerbi_dashboard.png)
+
+### 6. Analysis and Recommendations
+
+Analysis File: Conducted SQL and Excel analysis and provided recommendations.
+![YouTubers Analysis](assets/images/top3_youtubers_analysis.png)
+
+## 🚀 Future Steps
+
+1. Conduct an analysis of other social media platforms to offer a more comprehensive recommendation.
+
+2. Provide more detailed recommendations after further analysis.
 
 
