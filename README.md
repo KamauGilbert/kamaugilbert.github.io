@@ -14,7 +14,7 @@ This Data Analytics project assists marketers in identifying the most suitable Y
 
 ### 2. Data Extraction
 - **Script:** Used a Python script to extract data from YouTube since the Kaggle dataset contained information in a foreign language.
-  - **Script Path:** [extract_data_from_youtube_api.py](assets/python_script/extract_data_from_youtube_api.py)
+  - **Script Path:** [extract_data_from_youtube_api.py](assets/pthon_script/extract_data_from_youtube_api.py)
   - **Extracted Dataset:** [youtube_data_from_python.csv](assets/datasest/youtube_data_from_python.csv)
 
 ### 3. Loading Data into SQL Server
