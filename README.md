@@ -1,4 +1,3 @@
-```markdown
 # 📊 YouTube Influencer Marketing Project
 
 This Data Analytics project assists marketers in identifying the most suitable YouTuber for promoting product sales, leveraging data-driven insights to maximize marketing effectiveness. 🚀
@@ -59,8 +58,8 @@ SELECT
     total_videos
 FROM top_uk_youtubers_2024;
 ```
-
 ### 4. Data Quality Checks
+
 ```sql
 /*
 # Data Quality Tests:
@@ -98,14 +97,5 @@ HAVING
     COUNT(*) > 1;
 ```
 
-### 5. Creating the Dashboard
-- **PowerBI File:** Connected `youtube_db` in SQL SSMS to PowerBI to create an interactive dashboard.
-  - **Dashboard Path:** [top_uk_youtubers_2024.pbix](assets/interactive_dashboard/top_uk_youtubers_2024.pbix)
 
-### 6. Analysis and Recommendations
-- **Analysis File:** Conducted SQL and Excel analysis and provided recommendations.
-  - **Analysis Path:** [top_3_uk_youtubers_analysis.xlsx](assets/sql_excel_analysis_and_recommendations/top_3_uk_youtubers_analysis.xlsx)
 
-## 🚀 Future Steps
-1. Conduct an analysis of other social media platforms to offer a more comprehensive recommendation.
-2. Provide more detailed recommendations after further analysis.
