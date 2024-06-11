@@ -8,14 +8,14 @@ This Data Analytics project assists marketers in identifying the most suitable Y
 ## 📈 Approach
 
 ### 1. Viewing and Preparing the Dataset
-- **Dataset:** [Top 100 UK YouTubers file](assets/dataset/youtube_data_united-kingdom.csv)
+- **Dataset:** [Top 100 UK YouTubers file](assets/datasest/youtube_data_united-kingdom.csv)
 - **Mockup:** Created a mockup of the final dashboard view to understand the desired layout.
 ![Dashboard Mockup](assets/images/dashboard_mockup.png)
 
 ### 2. Data Extraction
 - **Script:** Used a Python script to extract data from YouTube since the Kaggle dataset contained information in a foreign language.
   - **Script Path:** [extract_data_from_youtube_api.py](assets/python_script/extract_data_from_youtube_api.py)
-  - **Extracted Dataset:** [youtube_data_from_python.csv](assets/dataset/youtube_data_from_python.csv)
+  - **Extracted Dataset:** [youtube_data_from_python.csv](assets/datasest/youtube_data_from_python.csv)
 
 ### 3. Loading Data into SQL Server
 - **Database:** Created a database called `youtube_db`.
